@@ -1,2 +1,3 @@
 const m = 'Mercado-Paago';
-console.log(m);
+const d = 'Devedor';
+console.log(m, d);
